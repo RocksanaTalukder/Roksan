@@ -28,8 +28,8 @@ public class UseString {
 		String number = "01234567";
 		System.out.println(number.length());
 		
-		String num = "oxoxoxox";
-		System.out.println(num.replace('x','X'));
+		String num = "orororor";
+		System.out.println(num.replace('r','R'));
 		
 		String a = "letter";
 		System.out.println(a.toUpperCase());
