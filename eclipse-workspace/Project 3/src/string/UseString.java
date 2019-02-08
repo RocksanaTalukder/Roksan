@@ -68,34 +68,7 @@ public class UseString {
 		System.out.println(n.toLowerCase());
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-   
-	
-	
-	
 	}
 	
 	
-	
-	
-	
-
 }

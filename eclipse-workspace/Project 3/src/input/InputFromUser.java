@@ -29,14 +29,10 @@ public class InputFromUser {
 		}
 		
 		String[] cars2 = {"volvo", "mazda", "toyota"};
-		for(String x1 : cars) {
+		for(String x1 : cars2) {
 			System.out.println(x1);
 		}
-		
-		
-		
-		 
-
+	
 	}
 
 }
